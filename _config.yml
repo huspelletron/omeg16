@@ -6,7 +6,7 @@ description: >
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://maygiatoc.com # the base hostname & protocol for your site
+url: https://omeg16.maygiatoc.com # the base hostname & protocol for your site
 #git_address: https://github.com/huspelletron/huspelletron.github.io
 #git_edit_address: https://github.com/huspelletron/huspelletron.github.io/tree/master
 
