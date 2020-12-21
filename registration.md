@@ -11,6 +11,6 @@ Registration has not yet been opened.
 
 #### Registration procedure
 
-All participants should register via the VNU-HUS Pelletron indico page.
+All participants should register via the VNU-HUS Pelletron indico page. To register, click “login” at the top page and follow the instruction.
 
-[–> Click here to go to the indico page.](https://indico.maygiatoc.com). 
+[–> Click here to go to the indico page.](https://indico.maygiatoc.com/e/OMEG16). 
