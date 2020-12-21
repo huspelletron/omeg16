@@ -5,4 +5,4 @@ sectionid: circulars
 permalink: /circulars/
 ---
 
-To be decided
+To be released
