@@ -20,7 +20,8 @@ html {
   
   .header-container {
     background-color: black;
-    background: url('<?php $a = array('../img/bg.jpg','../img/bg1.jpg','../img/bg2.jpg'); echo $a[array_rand($a)];?>') no-repeat 50% 0;
+    //background: url('<?php $a = array('../img/bg.jpg','../img/bg1.jpg','../img/bg2.jpg'); echo $a[array_rand($a)];?>') no-repeat 50% 0;
+    background: url('../img/bg.jpg') no-repeat 50% 0;
     color: #fff;
   
     h1 {
