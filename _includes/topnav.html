@@ -18,7 +18,6 @@
 		<li {% if page.sectionid=='venue' %} class="active" {% endif %}><a href="{{ "/venue/" | relative_url }}">Venue</a></li>
         <li {% if page.sectionid=='registration' %} class="active" {% endif %}><a href="{{ "/registration/" | relative_url }}">Registration</a></li>
                 <li {% if page.sectionid=='abstract' %} class="active" {% endif %}><a href="{{ "/abstract/" | relative_url }}">Abstract submission</a></li>
-                <li {% if page.sectionid=='circulars' %} class="active" {% endif %}><a href="{{ "/circulars/" | relative_url }}">Circulars</a></li>
                 <li {% if page.sectionid=='excursions' %} class="active" {% endif %}><a href="{{ "/excursions/" | relative_url }}">Excursions</a></li>
 		<li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | relative_url }}">News</a></li>
             </ul>
