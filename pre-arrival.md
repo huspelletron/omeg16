@@ -15,13 +15,19 @@ In case you need an assistance from the Organizers in applying for a visa, pleas
 
 In some cases, it is possible to get a "visa on arrival" at the border checkpoint in a Vietnamese international airport (it is more safe to apply for it before your departure).
 
+---
+
 #### Accommondation:
 
 To be updated
 
-#The following hotel has been reserved for participants of the workshop
+<!---
+The following hotel has been reserved for participants of the workshop
 
-#To book a room and for other related information you can contact the OMEG16 secretariat (hgu2016@iop.vast.ac.vn).
+To book a room and for other related information you can contact the OMEG16 secretariat (hgu2016@iop.vast.ac.vn).
+-->
+
+---
 
 #### Transportation:
 
@@ -35,6 +41,7 @@ If you arrive in Noi-Bai airport you can go to the city by the following ways:
 
 If you arrive by bus/car or train you get in the city and you can easily find a solution how to go to your hotel.
 
+---
 
 #### Venue:
 
