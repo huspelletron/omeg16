@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pre-arrival Info
+title: Pre-arrival information
 sectionid: prearrival
 permalink: /prearrival/
 ---
