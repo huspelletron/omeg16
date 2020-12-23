@@ -2,6 +2,7 @@
 title: Local Organizing Committee (LOC)
 permalink: /docs/loc/
 ---
+<span style="font-family:Helvetica; font-size:2em;">
 
 - Le Hong Khiem (Institute of Physics, Vietnam Academy of Science and Technology) : Chair
 - Vu Anh Tuan (Vietnam National Space Center, Vietnam Academy of Science and Technology)
@@ -21,3 +22,4 @@ permalink: /docs/loc/
 - Bui Thi Nhung (Institute of Physics, Vietnam Academy of Science and Technology)
 - Nguyen Thi Dieu Hong (Institute of Physics, Vietnam Academy of Science and Technology)
 
+</span>
