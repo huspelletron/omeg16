@@ -1,5 +1,5 @@
 ---
-title: Scientific Program Committee (SPC)
+title: Scientific Program Committee
 permalink: /docs/spc/
 ---
 
