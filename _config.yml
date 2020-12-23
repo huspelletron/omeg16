@@ -5,8 +5,8 @@ description: >
   Official website OMEG16 symposium.
 lang: en-US
 
-baseurl: "/~phong/omeg16" # the subpath of your site, e.g. /blog/
-url: https://ribf.riken.jp # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://omeg16.maygiatoc.com # the base hostname & protocol for your site
 #git_address: https://github.com/huspelletron/huspelletron.github.io
 #git_edit_address: https://github.com/huspelletron/huspelletron.github.io/tree/master
 
