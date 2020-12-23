@@ -31,4 +31,3 @@ permalink: /docs/iac/
 - Hiroaki Utsunomiya (Konan University)
 - Philip Woods (University of Edinburgh)
 - Pierre Darriulat (Vietnam National Space Center, Vietnam Academy of Science and Technology)
-- Nguyen Quang Hung (Duy Tan University)

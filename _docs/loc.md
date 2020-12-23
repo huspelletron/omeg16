@@ -15,6 +15,7 @@ permalink: /docs/loc/
 - Tran Chi Thanh (Vietnam Atomic Energy Institute)
 - Pham Duc Khue (Institute for Nuclear Science and Technology, Vietnam Atomic Energy Institute)
 - Dao Tien Khoa (Institute for Nuclear Science and Technology, Vietnam Atomic Energy Institute)
+- Nguyen Quang Hung (Duy Tan University)
 - Dam Nguyen Binh (Cyclotron Center, 108 Military Central Hospital)
 - Nguyen Ngoc Duy (Dong Nai University)
 - Bui Thi Nhung (Institute of Physics, Vietnam Academy of Science and Technology)
