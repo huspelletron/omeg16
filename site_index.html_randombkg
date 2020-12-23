@@ -24,6 +24,7 @@
 {"description":"Official website OMEG16 symposium.","url":"https://ribf.riken.jp/~phong/omeg16/","headline":"OMEG16","@type":"WebSite","name":"OMEG16","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
+<!-- Begin Random image function (Phong) -->
 <script type="text/javascript">
 function randombg(){
   var random= Math.floor(Math.random() * 6) + 0;
@@ -36,6 +37,8 @@ function randombg(){
   document.getElementById("bkgrnd").style.backgroundImage=bigSize[random];
 }
 </script>
+<!-- End Random image function (Phong) -->
+
     <link rel="alternate" type="application/rss+xml" title="OMEG16" href="https://ribf.riken.jp/~phong/omeg16/feed.xml" />
 </head>
 
@@ -201,7 +204,10 @@ function randombg(){
 
 <script src="/~phong/omeg16/assets/js/main.js "></script>
 
+<!-- Begin call Random image function (Phong) -->
 <script type="text/javascript">randombg();</script>
+<!-- End call Random image function (Phong) -->
+
 </body>
 
 </html>

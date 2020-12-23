@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/sitemap.xml
+Sitemap: https://ribf.riken.jp/~phong/omeg16/sitemap.xml
