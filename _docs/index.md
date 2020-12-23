@@ -1,5 +1,5 @@
 ---
-title: International Advisory Committee (IAC)
+title: International Advisory Committee
 permalink: /docs/iac/
 ---
 
