@@ -1,5 +1,5 @@
 ---
-title: Local Organizing Committee (LOC)
+title: Local Organizing Committee
 permalink: /docs/loc/
 ---
 - Le Hong Khiem (Institute of Physics, Vietnam Academy of Science and Technology) : Chair
